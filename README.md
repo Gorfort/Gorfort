@@ -15,6 +15,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongo" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="50" height="50"/>&nbsp;
-  <img src=https://github.com/uiwjs/file-icons/blob/master/icon/powershell.svg alt="powershell" width="50" height="50"/>&nbsp;
+<img src=https://github.com/uiwjs/file-icons/blob/master/icon/powershell.svg alt="powershell" width="50" height="50"/>&nbsp;
+<img src=https://commons.wikipedia.org/wiki/File:Apple_logo_white.svg alt="apple" width="50" height="50"/>&nbsp;
 </p>
 
