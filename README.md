@@ -2,6 +2,13 @@
 ![Gorfort's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gorfort&show_icons=true&theme=darcula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gorfort&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📕 My Projects :
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=ocean_dark&show_icons=true\&repo=ConvertFlowAPI)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=onedark&show_icons=true\&repo=P-Bulle-Snake)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=synthwave&show_icons=true\&repo=P-Script-PowerShell)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=outrun&show_icons=true\&repo=PasswordManager)
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -17,11 +24,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="50" height="50"/>&nbsp;
 <img src=https://github.com/uiwjs/file-icons/blob/master/icon/powershell.svg alt="powershell" width="50" height="50"/>&nbsp;
 </p>
-
-### 📕 My Projects :
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=ocean_dark&show_icons=true\&repo=ConvertFlowAPI)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=onedark&show_icons=true\&repo=P-Bulle-Snake)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=synthwave&show_icons=true\&repo=P-Script-PowerShell)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=outrun&show_icons=true\&repo=PasswordManager)
-
