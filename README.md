@@ -4,10 +4,9 @@
 
 ### 📕 My Projects :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=ocean_dark&show_icons=true\&repo=ConvertFlowAPI)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=onedark&show_icons=true\&repo=P-Bulle-Snake)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=synthwave&show_icons=true\&repo=P-Script-PowerShell)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=outrun&show_icons=true\&repo=PasswordManager)
+
 
 ### 🛠 &nbsp;Languages and Tools :
 
