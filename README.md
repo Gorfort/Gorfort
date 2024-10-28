@@ -5,7 +5,7 @@
 ### 📕 My Projects :
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=onedark&show_icons=true\&repo=P-Bulle-Snake)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=synthwave&show_icons=true\&repo=P-Script-PowerShell)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=synthwave&show_icons=true\&repo=PhotoSorter-PowerShell)
 
 
 ### 🛠 &nbsp;Languages and Tools :
