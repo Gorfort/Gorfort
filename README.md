@@ -1,12 +1,11 @@
 # 🛸 Welcome to my profile !
 ![Gorfort's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gorfort&show_icons=true&theme=darcula&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gorfort&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gorfort&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📕 My Projects :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=onedark&show_icons=true\&repo=P-Bulle-Snake)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=synthwave&show_icons=true\&repo=PhotoSorter-PowerShell)
-
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=darcula&show_icons=true\&repo=PhotoSorter-PowerShell)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Gorfort&theme=darcula&show_icons=true\&repo=P-Bulle-Snake)
 
 ### 🛠 &nbsp;Languages and Tools :
 
